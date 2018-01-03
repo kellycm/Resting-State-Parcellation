@@ -12,5 +12,5 @@ cp $subdir/$subject/SPM/s*.nii $maindir/subjects/$subject
 done
 
 echo ALL done
-
+ 
 
