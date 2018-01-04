@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#not necessary if you will later run wb_shortcuts -freesurfer-resample-prep
+
 export maindir=/Users/newportlab/Desktop
 export subdir=$maindir/subjects_postrecon2
 export subs=`ls $subdir`
